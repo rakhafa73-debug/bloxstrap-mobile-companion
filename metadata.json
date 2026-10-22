@@ -1,0 +1,6 @@
+{
+  "name": "Bloxstrap Mobile Companion",
+  "description": "Roblox Mobile graphics settings, performance presets, battery optimization guides, and device diagnostics companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
